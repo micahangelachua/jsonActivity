@@ -1,0 +1,69 @@
+[
+   {
+      "firstName": "Micah Angela",
+      "lastName": "Chua",
+      "age": 23,
+      "address": {
+         "town": "Zarraga",
+         "province": "Iloilo",
+         "country": "Philippines"
+      },
+      "contactNumber": "09560275033"
+   },
+
+   {
+      "name": {
+         "firstName": "Marinel",
+         "lastName": "Padilla"
+      },
+      "age": 23,
+      "address": {
+         "town": "Pavia",
+         "province": "Iloilo",
+         "country": "Philippines"
+      },
+      "likes": {
+         "movieGenres": ["romance", "mystery"],
+         "seriesGenres": ["BL","Yoai"]
+      },
+      "dislikes": ["insects", "financial problems"],
+      "feeling": "ugh, damo backlogs"
+   },
+   
+   {
+      "name": {
+         "firstName": "Jerzeil",
+         "lastName": "Lira"
+      },
+      "age": 23,
+      "address": {
+         "town": "Pavia",
+         "province": "Iloilo",
+         "country": "Philippines"
+      },
+      "likes": {
+         "movieGenres": ["suspense", "thriller"],
+         "seriesGenres": ["BL","Thai"]
+      },
+      "dislikes": ["Marinel"],
+      "feeling": "exhausted"
+   },
+   {
+      "name": {
+         "firstName": "Stephen John",
+         "lastName":"Siva"
+      },
+      "age": 23,
+      "address": {
+         "town": "Jaro",
+         "province": "Iloilo",
+         "country": "Philippines"
+      },
+      "likes": {
+         "movieGenres": ["action", "supernatural"],
+         "seriesGenres": ["romance","slice of life"]
+      },
+      "dislikes": ["laggy laptop", "pldt"],
+      "feeling": "suko na ako"
+   }
+]
